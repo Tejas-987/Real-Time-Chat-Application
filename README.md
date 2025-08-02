@@ -1,13 +1,4 @@
 
-**`Chatters-Realtime-Chat-App`**
-
-It’s descriptive, professional, and easy to find.
-
----
-
-### 📄 **README.md (Final Version)**
-
-```markdown
 # 💬 Chatters – Real-Time Chat Application
 
 Chatters is a full-stack real-time chat application built with **Next.js, Node.js, Express, MongoDB, Socket.io**, and **Redis**. It supports **real-time messaging**, **group chats**, **file sharing**, and **JWT-based authentication** with Docker support for containerized deployment.
@@ -125,4 +116,5 @@ docker-compose up --build
 | GET    | /api/messages/\:id | Get chat messages       |
 | POST   | /api/messages      | Send a new message      |
 | POST   | /api/group/create  | Create a new group chat |
+
 
